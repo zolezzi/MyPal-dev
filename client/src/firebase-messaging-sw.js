@@ -10,13 +10,13 @@ importScripts('https://www.gstatic.com/firebasejs/8.2.0/firebase-messaging.js');
 // This import loads the firebase namespace
 
 const firebaseApp = firebase.initializeApp({
-  apiKey: "AIzaSyCH-EjSPlON22U5C0a-Eg2dmTeqGzzyeLQ",
-  authDomain: "mypal-7c455.firebaseapp.com",
-  projectId: "mypal-7c455",
-  storageBucket: "mypal-7c455.appspot.com",
-  messagingSenderId: "86014872255",
-  appId: "1:86014872255:web:b1bf79a4720a89f9f5540a",
-  measurementId: "G-V6FWK4HP83"
+  apiKey: "AIzaSyDIrFJmXvpuajpgds0DE7N9S36OsoMpVH4",
+  authDomain: "my-pal-6e781.firebaseapp.com",
+  projectId: "my-pal-6e781",
+  storageBucket: "my-pal-6e781.appspot.com",
+  messagingSenderId: "407513853070",
+  appId: "1:407513853070:web:be0dfc67968b16c8e1eddf",
+  measurementId: "G-2NCC9ESLNC"
 });
 // Retrieve firebase messaging
 const messaging = firebase.messaging();
